@@ -1,47 +1,46 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: George Nikiforov 吳s恩b達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: George 
+last_name: Nikiforov
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👯‍♂️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: RUDN's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include linguistics, math, hip-hop and philosophy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Amercican mentality
+  - JPEGMAFIA
+  - Poetry and
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MATH n MECH in RUDN
+      institution: RUDN
+      year: 2022
+    - course: Secondary education in lyceum
+      institution: Lyceum 1502
+      year: 2021
+    - course: incomplete musical education
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +52,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://vk.com/slightlyfcknmad
     label: Follow me on Twitter
     display:
       header: true
@@ -62,7 +61,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gsnikiforov/wine-tyan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -74,7 +73,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'goshaniker38@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
