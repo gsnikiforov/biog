@@ -1,8 +1,7 @@
 ---
-title: Last week of happiness.
-subtitle: Hi, i wanna share with u my last weekend.
-# Summary for listings and search engines
-summary: Last week of happiness. Hi, i wanna share with u my last weekend.
+title: Git
+subtitle: Gut
+
 
 # Link this post with a project
 projects: []
@@ -47,4 +46,4 @@ print('hello')
 
 ## Overview
 
-I was learning english with new power of will because of my friends' support. So i watched True Detective, strated to read Siddhartha. Also, i quit smoking.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
