@@ -157,17 +157,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -219,6 +208,12 @@ sections:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       contact_links:
+      	- link: https://arxiv.org/user/
+      	- link: https://www.researchgate.net/profile/George-Nikiforov-2
+      	- linl: https://id.elsevier.com/settings/redirect?code=lyLuYBkzsts6z4riQfjFD9i-RyRgm5NN9_Y8viP5
+      	- link: https://orcid.org/0009-0009-9548-8769
+      	- link: https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=George+NotCarlin#
+        - link: https://www.elibrary.ru/author_info.asp?isnew=1&rpage=https%3A%2F%2Fwww%2Eelibrary%2Eru%2Fdefaultx%2Easp
         - icon: twitter
           icon_pack: fab
           name: DM Me
